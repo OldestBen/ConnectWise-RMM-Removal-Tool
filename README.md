@@ -33,3 +33,7 @@ Run the removal script:
 ```
 .\RMMRemoval.ps1
 ```
+
+## License
+
+This project is licensed under the AGPL-3.0 License - see the LICENSE.md file for details.
